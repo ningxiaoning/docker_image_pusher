@@ -6,4 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 golang:1.21
 --platform=linux/arm64 golang:1.21
+golang:1.19
+--platform=linux/arm64 golang:1.19
 --platform=linux/arm64 openjdk:8-jre
+alpine:3
+--platform=linux/arm64 alpine:3
